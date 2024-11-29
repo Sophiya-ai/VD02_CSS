@@ -1,0 +1,87 @@
+h1{
+    color: darkblue;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 900;
+    position: relative;
+    left: 550px;
+}
+
+.card1{
+    background-color:lightblue;
+    width: 500px;
+    height: 500px;
+    border-radius:60px;
+}
+.card1:hover{
+    background-color: lightgrey;
+    width: 500px;
+    height: 500px;
+    border-radius:60px;
+    border-width: 10px;
+    border-color: darkgrey;
+    border-style: solid;
+}
+
+.card2{
+    background-color:lightblue;
+    width: 500px;
+    height: 500px;
+    border-radius:60px;
+    position: relative;
+    left: 550px;
+    bottom: 500px;
+}
+.card2:hover{
+    background-color:lightgrey;
+    width: 500px;
+    height: 500px;
+    border-radius:60px;
+    border-width: 10px;
+    border-color: darkgrey;
+    border-style: solid;
+    position: relative;
+    left: 550px;
+    bottom: 500px;
+}
+
+.card3{
+    background-color:lightblue;
+    width: 500px;
+    height: 500px;
+    border-radius:60px;
+    position: relative;
+    left: 1100px;
+    bottom: 1000px;
+}
+.card3:hover{
+    background-color:lightgrey;
+    width: 500px;
+    height: 500px;
+    border-radius:60px;
+    border-width: 10px;
+    border-color: darkgrey;
+    border-style: solid;
+    position: relative;
+    left: 1100px;
+    bottom: 1000px;
+}
+
+.fio{
+    position: relative;
+    left: 100px;
+}
+
+img{
+    position: relative;
+    left: 150px;
+    bottom: 10px;
+    padding: 20px;
+    border-radius:30px;
+}
+
+p{
+    position: relative;
+    left: 15px;
+
+}
